@@ -1,11 +1,10 @@
-```
 # NVIDIA-Run Installer
 
 
 ## Overview
 This script facilitates running applications with the NVIDIA graphics card as the secondary GPU. It configures the environment for the applications to utilize the discrete graphics card using "nvidia-run".
 
-## Installation
+Installation
 To install the NVIDIA-Run script, follow these steps:
 
 1. Download the `nvidia-run-installer.sh` script.
@@ -36,4 +35,3 @@ nvidia-run vlc
 - NVIDIA graphics card and drivers installed
 - Access to run scripts with sudo privileges
 ```
-# nvidia-run
